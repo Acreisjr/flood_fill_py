@@ -56,7 +56,6 @@ Grid preenchido:
 
  - Alberto Júnior
  - Otávio Mendes
- - José Miguel
  - Gabriel Santiago
  - Lucas Barbosa
 ---
